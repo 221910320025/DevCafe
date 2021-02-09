@@ -2,9 +2,7 @@
     .max-width-1{
         max-width: 90vw;
     }
-    .navigation{
-        height: 250px;
-    }
+    
     .nav-left{
         display: flex;
         flex-direction: column;
