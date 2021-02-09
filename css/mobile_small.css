@@ -1,7 +1,4 @@
 @media screen and (max-width: 500px){
-    .max-width-1{
-        max-width: 80vw;
-    }
     
     .nav-left{
         display: flex;
@@ -30,7 +27,11 @@
         text-decoration: none;
         color: white;
     }
-    .nav-right {
+    .nav-right{
+        padding-top: 10px;
+        display: flex;
+        text-align: center;
+    }.nav-right {
         margin: 10px;
         display: flex;
         text-align: center;
