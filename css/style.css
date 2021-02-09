@@ -48,7 +48,8 @@
     color:red
 }
 .content-img{
-    width: 80vw;
+    width: 100%;
+    height: 100%;
 }
 
 .btn{
@@ -78,8 +79,8 @@
 .content
 {
     height: auto;
-    background-color: rgb(40, 41, 41);
     display: flex;
+    font-family: var(--font1);
 }
 .Home-Apps h1{
     margin: 30px;
